@@ -313,12 +313,12 @@ img {
 
 .home__blob-img {
   width: 150px;
-  transition: 0.5s;
+ /*  transition: 0.5s; */
 }
-
+/* 
 .home__blob-img:hover {
   transform: translateY(-5px);
-}
+} */
 
 .home__data {
   grid-column: 1/3;
@@ -519,15 +519,15 @@ img {
 }
 
 .skills__python {
-  width: 90%;
+  width: 85%;
 }
 
-.skills__r {
-  width: 60%;
+.skills__c {
+  width: 75%;
 }
 
-.skills__js {
-  width: 70%;
+.skills__Matlab {
+  width: 85%;
 }
 
 .skills__java {
@@ -537,7 +537,7 @@ img {
 /*========== SKILL 2 ==========*/
 
 .skills__np {
-  width: 85%;
+  width: 100%;
 }
 
 .skills__pd {
@@ -545,11 +545,11 @@ img {
 }
 
 .skills__plt {
-  width: 70%;
+  width: 85%;
 }
 
 .skills__sk {
-  width: 70%;
+  width: 90%;
 }
 
 .skills__sea {
@@ -569,7 +569,7 @@ img {
 }
 
 .skills__tf {
-  width: 85%;
+  width: 80%;
 }
 
 .skills__pytorch {
@@ -587,23 +587,23 @@ img {
 /*========== SKILL 3 ==========*/
 
 .skills__lr {
-  width: 85%;
+  width: 75%;
 }
 
-.skills__dt {
+.skills__p {
   width: 70%;
 }
 
-.skills__eda {
+.skills__co {
+  width: 65%;
+}
+
+.skills__Mp {
   width: 80%;
 }
 
-.skills__ts {
-  width: 70%;
-}
-
-.skills__cnn {
-  width: 90%;
+.skills__Dp {
+  width: 80%;
 }
 
 .skills__nlp {
@@ -624,18 +624,18 @@ img {
 
 /*========== SKILL 3 ==========*/
 
-.skills__aws {
-  width: 65%;
+.skills__Dsp {
+  width: 80%;
 }
 
-.skills__docker {
-  width: 70%;
+.skills__Dip {
+  width: 75%;
 }
 
 /*========== SKILL 5 ==========*/
 
-.skills__mysql {
-  width: 80%;
+.skills__ssp {
+  width: 75%;
 }
 
 .skills__mgdb {
